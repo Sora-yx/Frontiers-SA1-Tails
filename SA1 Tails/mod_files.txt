@@ -1,1 +1,12 @@
+add regular/raw/character/playercommon.pac
+add regular/raw/character/sonic.pac
+add regular/raw/character/supersonic.pac
+add regular/raw/sound/voice_rangers_sonic_en.acb
+add regular/raw/sound/voice_rangers_sonic_ja.acb
+add winter/raw/character/playercommon.pac
+add winter/raw/character/sonic.pac
+add winter/raw/character/supersonic.pac
+add winter/raw/sound/voice_rangers_sonic_en.acb
+add winter/raw/sound/voice_rangers_sonic_ja.acb
+add ConfigSchema.json
 add mod.ini
