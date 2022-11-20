@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configuration",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Tails Skin",
+          "Description": [
+            "Select a Tails Skin."
+          ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "regular"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+      {
+        "DisplayName": "SA1 Tails",
+        "Value": "regular",
+        "Description": [
+          "Use regular SA1 Tails skin."
+        ]
+      },
+      {
+        "DisplayName": "SA1 Winter Tails",
+        "Value": "winter",
+        "Description": [
+          "Use SA1 Winter Tails skin from Sonic 2 Movie. (Model by SoloSlacker)"
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
